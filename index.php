@@ -1,1 +1,3 @@
-index.php
+<?php
+
+echo("Here we are!");
