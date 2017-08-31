@@ -1,3 +1,3 @@
 <?php
 
-echo("Here we are!");
+echo("Here we are");
